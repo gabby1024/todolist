@@ -28,14 +28,14 @@ input {
 button {
   padding: 8px 12px;
   font-size: 16px;
-  background-color: #34306b;
+  background-color: #0c6681;
   color: #141515;
   border: none;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #077609;
+  background-color: #494b96;
 }
 
 .todo_main {
@@ -49,7 +49,7 @@ button:hover {
 .todo-card {
   width: 300px;
   max-width: 90%;
-  background-color: #2b5b7ad8;
+  background-color: #7c4242d8;
   padding: 15px;
   border-radius: 8px;
 }
@@ -62,7 +62,7 @@ button:hover {
 }
 
 .delete-button-heading {
-  background-color: #5a58a4;
+  background-color: #4b6d92;
   padding: 6px 12px;
   border: none;
   color: #151313;
